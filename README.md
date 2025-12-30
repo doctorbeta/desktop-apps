@@ -1,7 +1,5 @@
 # File Creator App (desktop-apps)
 
-![App Icon](FileCreatorApp.ico)
-
 نسخه فعلی: **v3.0.0**
 
 یک ابزار ویندوزی حرفه‌ای برای **ساخت خودکار پوشه‌ها و فایل‌ها**.  
